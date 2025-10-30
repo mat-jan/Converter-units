@@ -1,0 +1,35 @@
+body {
+  background-color: #769e19;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  color: #7700ff;
+  font-size: 5opx;
+}
+
+h2 {
+    color: #1284c7;
+    font-size: 35;
+}
+
+h3 {
+    color: #ff0000;
+    font-size: 30px;
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+}
+button{
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
