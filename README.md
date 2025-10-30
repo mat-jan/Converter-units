@@ -51,5 +51,5 @@ A simple **Flask web application** that converts common **US and EU measurement 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ymat-jan/Converter-units.git
+   git clone https://github.com/mat-jan/Converter-units.git
    cd unit-converter-flask
